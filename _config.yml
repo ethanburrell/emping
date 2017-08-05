@@ -33,10 +33,7 @@ gems:
 
 defaults:
     - {scope: {type: posts}, values: {layout: post, permalink: '/blog/:title'}}
-    - scope:
-        path: "assets/img"
-      values:
-        image: true
+
       
 
 include:
