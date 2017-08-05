@@ -17,7 +17,9 @@ Sorry for the inconvenience.
   <li style="display: inline-block; width:32%;">
   {% include icon-github.html username="ethanburrell" %}
   </li>
-  <li style="display: inline-block; width:32%;"><a href="#news">News</a></li>
+  <li style="display: inline-block; width:32%;">
+  {% include icon-linkedin.html username="ethanburrell" %}
+  </li>
   <li style="display: inline-block; width:32%;"><a href="#contact">Contact</a></li>
 
 </ul>
