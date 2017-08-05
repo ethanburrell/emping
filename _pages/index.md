@@ -13,10 +13,9 @@ Sorry for the inconvenience.
 
 ![]({{site.baseurl}}/_includes/bear.png)
 
-<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
-  <li style="display: inline-block; width:33%;"><a href="#home">Home</a></li>
-  <li style="display: inline-block; width:33%;"><a href="#news">News</a></li>
-  <li style="display: inline-block; width:33%;"><a href="#contact">Contact</a></li>
+<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; width: 100%; text-align:center">
+  <li style="display: inline-block; width:32%;"><a href="#home">Home</a></li>
+  <li style="display: inline-block; width:32%;"><a href="#news">News</a></li>
+  <li style="display: inline-block; width:32%;"><a href="#contact">Contact</a></li>
 
 </ul>
-
