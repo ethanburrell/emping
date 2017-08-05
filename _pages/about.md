@@ -10,4 +10,4 @@ I'm uploading projects and preparing them for my portfolio.
 
 In the meantime here's my Github:
 {% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[ethanburrell]
