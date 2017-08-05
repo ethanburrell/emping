@@ -2,18 +2,18 @@
 title: Ethan Burrell
 email: ethanburrell@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Let's Eat!!.
+  UC Berkeley EECS Student, Class of 2021
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  ethanburrell
-GoogleAnalytics: UA-xxxxxx-x
+GoogleAnalytics: UA--x
 
 twitter:
-  username: rmsubekti
+  username: 
 facebook:
-  app_id: 1234567
-  publisher: 1234567
+  app_id: 
+  publisher: 
 
 sass:
     style: compressed
