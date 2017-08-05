@@ -21,3 +21,5 @@ Sorry for the inconvenience.
   {% include icon-resume.html username="Resume" %}
   </li>
 </ul>
+
+<img src="../assets/img/bear.png" />
