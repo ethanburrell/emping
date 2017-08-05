@@ -16,6 +16,7 @@ Sorry for the inconvenience.
 <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; width: 100%; text-align:center; overflow: hidden;">
   <li style="display: inline-block; width:32%;">
   {% include icon-github.html username="ethanburrell" %}
+  </li>
   <li style="display: inline-block; width:32%;"><a href="#news">News</a></li>
   <li style="display: inline-block; width:32%;"><a href="#contact">Contact</a></li>
 
