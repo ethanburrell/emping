@@ -9,7 +9,7 @@ Hey! I started building this site on August 4th, 2017 to prepare for college! Th
 
 Sorry for the inconvenience.
 
-![bear.png]({{site.baseurl}}/assets/bear.png)
+![bear.png]({{site.baseurl}}/assets/img/bear.png)
 
 
 ![bear.png]({{site.baseurl}}/_includes/bear.png)
