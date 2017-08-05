@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Welcome To My Blog
 Hello, My name is Ethan Burrell, I am a Berkeley EECS Student going into my Freshman year in 2017, hoping to graduate in 2021. 
