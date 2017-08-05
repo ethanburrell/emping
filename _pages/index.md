@@ -20,7 +20,7 @@ Sorry for the inconvenience.
   <li style="display: inline-block; width:32%;">
   {% include icon-linkedin.html username="ethanburrell" %}
   </li>
-  <li>
+  <li style="display: inline-block; width:32%;">
   {% include icon-resume.html username="Resume" %}
   </li>
 
