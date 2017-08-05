@@ -11,6 +11,9 @@ Sorry for the inconvenience.
 
 ![bear.png]({{site.baseurl}}/_pages/bear.png)
 
+
+![bear.png]({{site.baseurl}}/_includes/bear.png)
+
 <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; width: 100%; text-align:center; overflow: hidden;">
   <li style="display: inline-block; width:32%;">
   {% include icon-github.html username="ethanburrell" %}
