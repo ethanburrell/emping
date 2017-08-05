@@ -13,5 +13,10 @@ Sorry for the inconvenience.
 
 ![]({{site.baseurl}}/_includes/bear.png)
 
-
+<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
+  <li style="display: inline;"><a href="#home">Home</a></li>
+  <li style="display: inline;"><a href="#news">News</a></li>
+  <li style="display: inline;"><a href="#contact">Contact</a></li>
+  <li style="display: inline;"><a href="#about">About</a></li>
+</ul>
 
