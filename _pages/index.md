@@ -22,4 +22,4 @@ Sorry for the inconvenience.
   </li>
 </ul>
 
-<img src="{{ site.baseurl }}/assets/img/bear.png" >
+<img src="https://ethanburrell.github.io/assets/img/bear.png" >
