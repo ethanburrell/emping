@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>My Blog</title>
+<h1>You finished reading my review, you should go back to the previous tab</h1>
+<script>
+	if (window.opener) {
+		opener.location = 'https://mathiasbynens.github.io/rel-noopener/#hax';
+	} else {
+		document.querySelector('h1').innerHTML = 'The previous tab is safe and intact. <code>window.opener</code> was <code>null</code>; mischief <em>not</em> managed!';
+	}
+</script>
